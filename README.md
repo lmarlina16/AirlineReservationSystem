@@ -1,4 +1,3 @@
-# AirlineReservationSystem
-![](images/Book-a-ticket.png)
-![](images/Display-reservation-Info.png)
-![](images/Flight-Schedule.png)
+![](Images/Book-a-ticket.png)
+![](Images/Display-reservation-Info.png)
+![](Images/Flight-Schedule.png)
